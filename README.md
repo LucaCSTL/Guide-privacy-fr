@@ -1,2 +1,26 @@
-# Guide-privacy-fr
+# Guide privacy fr
 Guide en français sur la protection contre l'espionnage de Microsoft sous Windows et de défense pour le maintien de la vie privée sur Internet.
+
+#### Ce guide va parler des connaissances que j’ai acquises quant à ces deux sections ci-dessous qui sont intrinsèquement lié :
+* Protection contre l’espionnage sur Windows
+* Défense pour le maintien de la vie privée sur Internet
+
+#### Il sera aussi partagé un guide sur de l'OPsec en complément de ce guide là.
+
+### Introduction
+
+Rentrons dans le vif du sujet.
+Nous sommes tous concerné par rapport à cela. Aujourd’hui, la quasi-totalité des gens possèdent un outil numérique leur permettant d’accéder à Internet. Et notamment un ordinateur. Cependant, ce que les gens ne savent pas, ou du moins, ne soupçonnent pas, c’est que dès le moment où ils se sont connectés à Internet, leur identité, et la moindre de leurs actions est enregistré, surveillé et contrôlé. Et cela permet d'établir sur eux un profil numérique. On parle de "double numérique". Ce qui peut à la fois être une façon de la part des grandes groupes (comme n'importe lesquels bien sûr) de se faire de l'argent en revendant ensuite ces précieuses données que les gens leurs transmettent sans soucis en acceptant tous ce qu'ils voient à l'écran. Mais aussi dans un autre cas, cela peut être le complément de quelque chose de plus grave dans le sens que toutes leurs données peuvent être utilisés contre eux un jour. Nous n’allons pas voir ici comment devenir 100% anonyme. Tout simplement car cela n’existe pas. Les gouvernements, disposant de ressources, d’outils et de temps nécessaire pourront un jour ou l’autre savoir. Non, ce qui compte ici, ce n’est pas de chercher l’anonymat parfait, car il n’existe pas, mais de limiter au maximum son empreinte, et leur emprise sur nous et nos données. Et, voir même, pour une protection vraiment avancée, de brouiller les pistes en adoptant les techniques d’OPsec pour les plus rigoureux. Mais ça c’est un sujet que l’on parlera dans un autre guide.
+
+Concentrons-nous sur la base de base.
+
+Tout d’abord, comme indiqué, ce guide concernera avant tout la sécurité pour les gens qui sont sous Windows. Même si sécurité rime davantage avec Linux, aujourd’hui, encore plus de deux tiers de la population ayant un ordinateur sont sous Windows. Cependant, nous allons voir en première partie la défense de vie privée pour notre OS. Ensuite viendra la protection concernant les données que nous partageons sans le vouloir en ligne à travers nos navigateurs. Et cela, est équivalent pour les autres OS. Linux comme MacOS (je me permets de prévoir ce que vont dire les puristes, oui je sais Linux n’est pas un OS à proprement parlé mais un kernel).
+
+*« Mais pourquoi autant s’embêter ? Je n’ai rien à cacher. »* Snowden répondait alors à cette réflexion encore générale dans la tête de la plupart des gens ; « Dire que vous n'avez pas besoin de vous inquiéter de votre vie privée car vous n'avez rien à cacher est comme dire que vous n'avez pas besoin de vous inquiéter de votre liberté d'expression car vous n'avez rien à dire. »
+
+Cette phrase insouciante que pense encore beaucoup de personnes (malgré que la tendance commence progressivement à se faire voir) est parfaite pour illustrer à quel point ceux qui pensent ça, ne se soucient absolument du monde dans lequel ils vivent. Vivre en 2026 dans un monde qui est déjà hyper-connecté, et où nos identités, et plus globalement, nos vies, sont inscrites dans un univers numérique/informatique sans prendre conscience que cela peut être risqué, est un niveau de naïveté sans pareil. Ce n’est même pas question de savoir si vous avez fait quelque chose de mal ou de répréhensible aux yeux de la loi, c’est de comprendre que vous êtes surveillé, espionné à votre insu. Et on parle pas là uniquement des petits hackers indépendants. Non, je parle bien par nos gouvernements.
+>Rien n’est sans rappeler l’affaire en 2013 avec Snowden, ou encore avec Julian Assange pour ne citer qu’eux, de l’exposition de la surveillance de masse qu’organisaient les services secrets américains.
+Ce qu’il faut savoir, c’est que la capacité de stockage de données de ces systèmes de surveillance de masses augmente chaque année. Vous n'imaginez pas la quantité de donnée, et le type qui est enregistré dans ces centres de données.
+Aussi, vous n’avez pas besoin d’avoir fait quelque chose de mal. Il suffit juste qu’un jour, quelqu’un finisse par vous soupçonner, peut importe comment, et qu’ils utilisent leur système pour « remonter le temps » et examiner chacune de vos décisions, chaque ami avec qui vous avez discuté, chaque discussions, photos, mails, déplacement que vous avez fait au cours du temps, et d’ensuite vous attaquer sur cette base pour éveiller les soupçons. Et faire donc passer une personne, à priori innocente, en un malfaiteur. Il le font pour les lanceur d'alertes, les journalistes et certains avocats. Si ces corps de métiers sont si ciblé ce n'est pas pour rien. Imaginez si demain votre pays tombe sous un régime autoritaire voir totalitaire (USA...), qu'en sera-t-il de votre si cher liberté d'expression ? De votre droit à la contestation ? De votre vie privée en général ?
+
+Bon, assez parler, démarrons avec la pratique désormais.
