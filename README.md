@@ -128,7 +128,7 @@ Et voici directement la commande à rentrer dans le Power Shell en mode administ
 > Une fois la commande et l’installation validée, une nouvelle page PowerShell s’ouvrira, et vous aurez un choix quant au mode d’optimisation à choisir. Sélectionnez l’option 1 (Default mode) pour appliquer les choix par défaut, l’option 2 pour modifier des options du script (Custom mode), et l’option 3 si vous souhaitez choisir quelle application supprimer, et lesquelles garder. Une fois l’option choisie, appuyez sur entrée et laissez le script faire. Ne vous inquiétez pas si votre écran de bureau est repassé en noir durant quelques secondes durant le processus, c’est normal, car votre ordinateur redémarre le Process Windows Explorer pour appliquer les changements.
 
 
-## Défense pour le maintien de la vie privée sur Internet
+## 🛡️ Défense pour le maintien de la vie privée sur Internet
 
 Le choix en tout premier lieu d’un navigateur est extrêmement important. Appliquer tous ces conseils et techniques, mais utiliser Edge, Chrome ou Opera sera complètement paradoxale.
 
