@@ -135,7 +135,11 @@ Le choix en tout premier lieu d’un navigateur est extrêmement important. Appl
 Pourquoi je parle de ces navigateurs là comme exemple ? Tout simplement car ce sont parmis les plus utilisé et les moins sûre. Edge, tient de microsoft, pas besoin de développer plus (envoie de rapports d’utilisation de l’utilisateur, fingerprinting, télémétrie, etc, etc.), Chrome, c’est Google, pareille je ne devrai pas dévellopper davantage vous avez compris la chanson. Et pour Opera, c’est tout simplement le fait qu’une entreprise chinoise a racheté Opera en 2016. Est-ce que j’ai besoin de vous expliquer pourquoi il faudrait mieux l’éviter ? Je ne pense pas !
 
 Donc, concernant les navigateurs, (les plus intéressants à utiliser car globalement fiable), je vous conseillerai :
-* Firefox (sous configuration stricte), DuckDuckGo, LibreWolf, Mullvad Browser et Brave.
+* Firefox (sous configuration stricte),
+* DuckDuckGo,
+* LibreWolf,
+* Mullvad Browser,
+* Brave.
 Les trois premiers après Firefox sont basé sur ce dernier. Brave quant à lui est basé sous Chronium. Concernant les trois premiers modèles (après Firefox default), ils sont axé sécurité et anonymat. (Brave est surtout utilisé pour le blocage de pubs et autres parasites intersites mais est aussi utilisé pour la sécurité et l’anonymat). Ces navigateurs configurent automatiquement plusieurs paramètres dans ce sens par défaut. Mais je vous conseille d’y ajouter des couches supplémentaires si vous souhaitez vraiment avoir le moins de tracabilité.
 
 Pour les navigateurs sous Firefox, vous allez configurer / vérifier les paramètres suivants :
