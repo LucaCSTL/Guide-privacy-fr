@@ -7,7 +7,7 @@ Guide en français sur la protection contre l'espionnage de Microsoft sous Windo
 
 #### Il sera aussi partagé un guide sur de l'OPsec en complément de ce guide là.
 
-### 📝 Introduction
+## 📝 Introduction
 
 Rentrons dans le vif du sujet.
 Nous sommes tous concerné par rapport à cela. Aujourd’hui, la quasi-totalité des gens possèdent un outil numérique leur permettant d’accéder à Internet. Et notamment un ordinateur. Cependant, ce que les gens ne savent pas, ou du moins, ne soupçonnent pas, c’est que dès le moment où ils se sont connectés à Internet, leur identité, et la moindre de leurs actions est enregistré, surveillé et contrôlé. Et cela permet d'établir sur eux un profil numérique. On parle de "double numérique". Ce qui peut à la fois être une façon de la part des grandes groupes (comme n'importe lesquels bien sûr) de se faire de l'argent en revendant ensuite ces précieuses données que les gens leurs transmettent sans soucis en acceptant tous ce qu'ils voient à l'écran. Mais aussi dans un autre cas, cela peut être le complément de quelque chose de plus grave dans le sens que toutes leurs données peuvent être utilisés contre eux un jour. Nous n’allons pas voir ici comment devenir 100% anonyme. Tout simplement car cela n’existe pas. Les gouvernements, disposant de ressources, d’outils et de temps nécessaire pourront un jour ou l’autre savoir. Non, ce qui compte ici, ce n’est pas de chercher l’anonymat parfait, car il n’existe pas, mais de limiter au maximum son empreinte, et leur emprise sur nous et nos données. Et, voir même, pour une protection vraiment avancée, de brouiller les pistes en adoptant les techniques d’OPsec pour les plus rigoureux. Mais ça c’est un sujet que l’on parlera dans un autre guide.
