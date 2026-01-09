@@ -1,4 +1,4 @@
-# Guide privacy fr
+# 🔒👨‍💻 Guide privacy fr
 Guide en français sur la protection contre l'espionnage de Microsoft sous Windows et de défense pour le maintien de la vie privée sur Internet.
 
 #### Ce guide va parler des connaissances que j’ai acquises quant à ces deux sections ci-dessous qui sont intrinsèquement lié :
@@ -7,7 +7,7 @@ Guide en français sur la protection contre l'espionnage de Microsoft sous Windo
 
 #### Il sera aussi partagé un guide sur de l'OPsec en complément de ce guide là.
 
-### Introduction
+### 📝 Introduction
 
 Rentrons dans le vif du sujet.
 Nous sommes tous concerné par rapport à cela. Aujourd’hui, la quasi-totalité des gens possèdent un outil numérique leur permettant d’accéder à Internet. Et notamment un ordinateur. Cependant, ce que les gens ne savent pas, ou du moins, ne soupçonnent pas, c’est que dès le moment où ils se sont connectés à Internet, leur identité, et la moindre de leurs actions est enregistré, surveillé et contrôlé. Et cela permet d'établir sur eux un profil numérique. On parle de "double numérique". Ce qui peut à la fois être une façon de la part des grandes groupes (comme n'importe lesquels bien sûr) de se faire de l'argent en revendant ensuite ces précieuses données que les gens leurs transmettent sans soucis en acceptant tous ce qu'ils voient à l'écran. Mais aussi dans un autre cas, cela peut être le complément de quelque chose de plus grave dans le sens que toutes leurs données peuvent être utilisés contre eux un jour. Nous n’allons pas voir ici comment devenir 100% anonyme. Tout simplement car cela n’existe pas. Les gouvernements, disposant de ressources, d’outils et de temps nécessaire pourront un jour ou l’autre savoir. Non, ce qui compte ici, ce n’est pas de chercher l’anonymat parfait, car il n’existe pas, mais de limiter au maximum son empreinte, et leur emprise sur nous et nos données. Et, voir même, pour une protection vraiment avancée, de brouiller les pistes en adoptant les techniques d’OPsec pour les plus rigoureux. Mais ça c’est un sujet que l’on parlera dans un autre guide.
@@ -27,7 +27,7 @@ Aussi, vous n’avez pas besoin d’avoir fait quelque chose de mal. Il suffit j
 Bon, assez parler, démarrons avec la pratique désormais.
 
 
-## Protection contre l'espionnage de Microsoft avec Windows
+## 🕵️‍♂️ Protection contre l'espionnage de Microsoft avec Windows
 
 ### GodMode.
 En tout premier lieu, ce que je vous conseillerai d’avoir sur votre bureau, est une page d’interface qui vous permet d’avoir accès à une vaste présentation d’options Windows qui vous permettront de changer/configurer les paramètres que vous souhaitez sans forcément connaître le chemin de destination de ces paramètres là. Cet outil qui permet cela est tout simplement un outil intégré directement dans Windows et qui se nomme « God Mode ». De son vrai nom « Windows Master Control Panel shortcut » ou raccourci du panneau de configuration principal de Windows, le GodMode s’avère très pratique pour avoir au même endroit tous les paramètres simples et avancés de Windows, surtout si vous devez y accéder régulièrement. Donc, pour ce faire, il faut faire :
