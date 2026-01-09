@@ -140,6 +140,7 @@ Donc, concernant les navigateurs, (les plus intéressants à utiliser car global
 * LibreWolf,
 * Mullvad Browser,
 * Brave.
+
 Les trois premiers après Firefox sont basé sur ce dernier. Brave quant à lui est basé sous Chronium. Concernant les trois premiers modèles (après Firefox default), ils sont axé sécurité et anonymat. (Brave est surtout utilisé pour le blocage de pubs et autres parasites intersites mais est aussi utilisé pour la sécurité et l’anonymat). Ces navigateurs configurent automatiquement plusieurs paramètres dans ce sens par défaut. Mais je vous conseille d’y ajouter des couches supplémentaires si vous souhaitez vraiment avoir le moins de tracabilité.
 
 Pour les navigateurs sous Firefox, vous allez configurer / vérifier les paramètres suivants :
