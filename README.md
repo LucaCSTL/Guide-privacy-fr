@@ -32,7 +32,6 @@ Alors, il ne vas pas être question ici de vous rendre paranoïaque, (même s'il
 
 Bon, assez parler, démarrons avec la pratique désormais.
 
-
 ## 🕵️‍♂️ Protection contre l'espionnage de Microsoft avec Windows
 
 ### GodMode.
